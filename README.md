@@ -161,6 +161,11 @@ Expected message:
 
 ## 10. Demonstration Video
 
-**Video Link:** [Add your demonstration video link here]
+The demonstration video includes:
+- Introduction to the Hugging Face DistilBERT model.
+- Explanation of the project structure and source code.
+- Running the FastAPI application.
+- Testing the prediction endpoint with positive and negative inputs.
+- Running automated API tests and explaining the results.
 
-The demonstration includes the model introduction, project structure, application startup, API testing with different inputs, and explanation of the results.
+**Watch the demonstration video:** [https://youtu.be/avxg-eBgKro]
